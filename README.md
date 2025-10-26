@@ -36,9 +36,6 @@ I am a third-year Electronics and Telecommunications Engineering student with a 
   <a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="yolo"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="linux"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="git"/>
   </a>
