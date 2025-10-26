@@ -56,5 +56,4 @@ I am a third-year Electronics and Telecommunications Engineering student with a 
 ---
 
 ### 📫 Connect with Me
-
-*Feel free to add your contact links here.*
+my email: q.ngohn@gmail.com
