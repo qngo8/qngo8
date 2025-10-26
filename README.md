@@ -2,7 +2,7 @@
 
 ### Third-Year University Student | Aspiring AI/Computer Vision Engineer
 
-<a href="https://linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/quan-ngo-a60637336/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
 
 ---
 
